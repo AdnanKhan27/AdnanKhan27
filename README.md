@@ -8,6 +8,6 @@
 AdnanKhan27/AdnanKhan27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AdnanKhan27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanKhan27&theme=buefy&layout=compact" />
 </a>
