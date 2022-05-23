@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredericka+the+Great&size=40&color=FF5E9ED2&width=500&height=70&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&vCenter=true&width=165&height=25&lines=connect+with+me+-%3E)](https://git.io/typing-svg)
 <a href="https://www.linkedin.com/in/adnan-khan27/"><img alt="MyLinkedin" height="26" width="26" src="https://i.giphy.com/media/yDM1kJZthxFPoGDdmq/giphy.webp" style="padding-left=10px"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/AdnanKhan27"><img alt="MyGithub" height="26" width="26" src="https://img.icons8.com/fluency/48/ffffff/github.png" /></a>
