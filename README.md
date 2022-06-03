@@ -5,7 +5,7 @@
 &nbsp;&nbsp;
 <a href="https://github.com/AdnanKhan27"><img alt="MyGithub" height="26" width="26" src="https://img.icons8.com/fluency/48/ffffff/github.png" /></a>
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello, folks!
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> Hello, folks!
 My name is Adnan Khan,
 - 🎓 | Computer Science student at VIT Bhopal, India with spl. in CSDF
 - ⚒ | Currently working on my Web Dev. skills
