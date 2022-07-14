@@ -7,9 +7,9 @@
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"> Hello, folks!
 My name is Adnan Khan,
-- 🎓 | Computer Science student at VIT Bhopal, India with spl. in CSDF
+- 🎓 | Computer Science student at VIT Bhopal, India with spl. in Cyber Security and Digital Forensics
 - ⚒ | Currently working on my Web Dev. skills
-- 🚧 | My Website's under construction 
+- 🚧 | Working on my Website's
 
 ### **Lan**gua**ge**s **an**d **To**ols
 <!--- black icons
