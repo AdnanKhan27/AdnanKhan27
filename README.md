@@ -9,7 +9,7 @@
 My name is Adnan Khan,
 - 🎓 | Computer Science student at VIT Bhopal, India with spl. in Cyber Security and Digital Forensics
 - ⚒ | Currently working on my Web Dev. skills
-- 🚧 | Working on my Website's
+- 🚧 | Portfolio Website under-construction
 
 ### **Lan**gua**ge**s **an**d **To**ols
 <!--- black icons
